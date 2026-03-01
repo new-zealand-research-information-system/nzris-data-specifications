@@ -1,0 +1,10 @@
+﻿Label Value,Code,Description
+Actual system proven in operational environment,TRL 9,System proven through successful mission operations.
+Basic principles observed and reported,TRL 1,Scientific principles underlying the technology are identified and reported. No practical application yet; research is at the conceptual stage.
+Experimental proof of concept,TRL 3,Analytical and experimental critical function and/or characteristic proof-of-concept demonstrated in a laboratory environment.
+System completed and qualified,TRL 8,System completed and “flight qualified” through test and demonstration in its operational environment.
+System prototype demonstrated in operational environment,TRL 7,Model or prototype demonstration of the element performance in an operational environment.
+Technology concept and/or application formulated,TRL 2,The technology concept and potential application are formulated. Performance requirements are broadly defined but consistent with the concept.
+Technology demonstrated in relevant environment,TRL 6,Model or prototype demonstration of critical functions in a relevant environment.
+Technology validated in laboratory,TRL 4,Component and/or breadboard validation in a laboratory environment. Demonstrates that the technology works under controlled conditions.
+Technology validated in relevant environment,TRL 5,Component and/or breadboard critical function verification in a relevant environment (simulated operational conditions).
