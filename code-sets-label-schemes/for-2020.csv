@@ -2165,7 +2165,7 @@ It includes:
 510205 Terahertz physics,510205,
 "510299 Atomic, molecular and optical physics not elsewhere classified",510299,
 5103 Classical physics,5103,This group covers classical physics.
-510301 Acoustics and acoustical devices; waves,510301,
+510301 Acoustics and acoustical devices|| waves,510301,
 510302 Classical and physical optics,510302,
 510303 Electrostatics and electrodynamics,510303,
 510304 Thermodynamics and statistical physics,510304,
@@ -2174,7 +2174,7 @@ It includes:
 510401 Condensed matter characterisation technique development,510401,
 510402 Condensed matter imaging,510402,
 510403 Condensed matter modelling and density functional theory,510403,
-510404 Electronic and magnetic properties of condensed matter; superconductivity,510404,
+510404 Electronic and magnetic properties of condensed matter|| superconductivity,510404,
 510405 Soft condensed matter,510405,
 510406 Structural properties of condensed matter,510406,
 510407 Surface properties of condensed matter,510407,
@@ -2185,7 +2185,7 @@ It includes:
 510599 Medical and biological physics not elsewhere classified,510599,
 5106 Nuclear and plasma physics,5106,This group covers nuclear and plasma physics.
 510601 Nuclear physics,510601,
-510602 Plasma physics; fusion plasmas; electrical discharges,510602,
+510602 Plasma physics|| fusion plasmas|| electrical discharges,510602,
 510699 Nuclear and plasma physics not elsewhere classified,510699,
 5107 Particle and high energy physics,5107,This group covers particle and high energy physics.
 510701 Astroparticle physics and particle cosmology,510701,
