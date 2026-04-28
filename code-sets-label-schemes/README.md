@@ -34,7 +34,7 @@ All labels are captured in a single field per record in the _grants.csv file. Th
 •	**Label Scheme Identifier** (e.g. for-2020)\
 •	**pipe delimiter**\
 •	**Percentage** (e.g. 25)\
-•	**semicolon delimiter** = end of record.  
+•	**semicolon delimiter** = end of record. 
 
 > **Example**
 > 
@@ -56,3 +56,10 @@ This same format applies to all label schemes and all label schemes can be enter
 310803 Plant cell and molecular biology|for-2020|25;310804 Plant developmental and reproductive biology|for-2020|50;310806 Plant physiology|for-2020|25;260205 Softwood plantations|seo-2020|30;260506 Kiwifruit|seo-2020|70 **;CoRE Bio Protection Research Centre|c-strategic-programme|**  
 
 Files for each of the label schemes are included in this repository.  The first column of each csv file contains the "Label Value" and the file name includes the "Label Scheme Identifier" (e.g. for-2020 label values.csv).   
+
+**Please note that three FOR 2020 codes contain a semi-colon in the description.  For these three codes the semi-colon must be replaced with a double pipe**  
+Code descriptions are displayed correctly in NZRIS after import.\
+•	510301 Acoustics and acoustical devices|| waves\
+•	510404 Electronic and magnetic properties of condensed matter|| superconductivity\
+•	510602 Plasma physics|| fusion plasmas|| electrical discharges\
+
