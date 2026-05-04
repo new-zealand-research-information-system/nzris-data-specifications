@@ -57,20 +57,20 @@ This same format applies to all label schemes and all label schemes can be enter
 
 Files for each of the label schemes are included in this repository.  The first column of each csv file contains the "Label Value" and the file name includes the "Label Scheme Identifier" (e.g. for-2020 label values.csv).   
 
-**Please note that three FOR 2020 and six FOR 2008 codes contain a semi-colon in the description.  For these codes the semi-colon must be replaced with a double pipe**  
-Code descriptions are displayed correctly in NZRIS after import.\
+## Please note that three FOR 2020 and six FOR 2008 codes contain a semi-colon in the description.  For these codes the semi-colon must be replaced with a double pipe  
+Code descriptions are displayed correctly in NZRIS after import.
 
 FOR 2020\
 •	510301 Acoustics and acoustical devices|| waves\
 •	510404 Electronic and magnetic properties of condensed matter|| superconductivity\
-•	510602 Plasma physics|| fusion plasmas|| electrical discharges\
+•	510602 Plasma physics|| fusion plasmas|| electrical discharges
 
 FOR 2008\
-•	020106 High Energy Astrophysics; Cosmic Rays\
-•	020204 Plasma Physics; Fusion Plasmas; Electrical Discharges\
-•	020301 Acoustics and Acoustical Devices; Waves\
-•	020404 Electronic and Magnetic Properties of Condensed Matter; Superconductivity\
-•	029904 Synchrotrons; Accelerators; Instruments and Techniques\
-•	100605 Performance Evaluation; Testing and Simulation of Reliability
+•	020106 High Energy Astrophysics|| Cosmic Rays\
+•	020204 Plasma Physics|| Fusion Plasmas|| Electrical Discharges\
+•	020301 Acoustics and Acoustical Devices|| Waves\
+•	020404 Electronic and Magnetic Properties of Condensed Matter|| Superconductivity\
+•	029904 Synchrotrons|| Accelerators|| Instruments and Techniques\
+•	100605 Performance Evaluation|| Testing and Simulation of Reliability
 
 
